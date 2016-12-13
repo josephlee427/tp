@@ -1,0 +1,37 @@
+
+.box {
+	max-width: 960px;
+	margin: auto;
+}
+
+#dorites {
+	padding-top: 4cm;
+	margin: 0 auto;
+	display: block;	
+}
+
+ul{
+	list-style:none;
+	padding: 0;
+}
+
+form {
+	max-width: 400px;
+	display: block;
+	margin: auto;
+}
+
+#stuff{
+	text-align:center;
+}
+
+#login{
+	display: none;
+}
+
+#register{
+	display: none;
+}
+
+
+

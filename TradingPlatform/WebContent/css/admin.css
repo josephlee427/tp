@@ -1,0 +1,50 @@
+#body {
+	max-width:960px;
+	margin: auto;
+}
+
+#profile{
+	display:none;
+}
+
+#adduser{
+	display:none;
+}
+
+#deluser{
+	display:none;
+}
+
+#moduser{
+	display:none;
+}
+
+#tradehist{
+	display:none;
+}
+
+#reqhist{
+	display:none;
+}
+
+#snoop{
+	padding-top:4cm;
+	display:block;
+	margin: auto;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+
